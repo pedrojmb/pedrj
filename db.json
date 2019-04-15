@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "posts": {
     {
       "maxPages": 1,
       "page": "1",
@@ -17,9 +17,10 @@
         "sku": "1082671",
         "umbralMedio": "150",
         "umbralCiritico": "25"
-      }]
+      }],
+      "totalElements": "2"
     }
-  ],
+},
   "profile": {
     "name": "pedrojmb"
   }
