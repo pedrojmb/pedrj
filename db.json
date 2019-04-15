@@ -16,7 +16,7 @@
         "descripcion": "PEG VENTANAS MADERA MADMASS 3",
         "sku": "1082671",
         "umbralMedio": "150",
-        "umbralCiritico": "25"
+        "umbralCritico": "25"
       }],
       "totalElements": "2"
     }
