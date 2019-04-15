@@ -3,7 +3,7 @@
     {
       "maxPages": 1,
       "page": "1",
-      "result": {[
+      "result": [
       {
         "id": "1",
         "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
@@ -18,7 +18,6 @@
         "umbralMedio": "150",
         "umbralCiritico": "25"
       }]
-      }
     }
   ],
   "profile": {
