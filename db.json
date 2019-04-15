@@ -1,7 +1,7 @@
 {
   "posts": 
     {
-      "maxPages": 1,
+      "maxPages": 2,
       "page": "1",
       "result": [
       {
@@ -143,7 +143,7 @@
         "umbralMedio": "150",
         "umbralCritico": "25"
       }],
-      "totalElements": "2"
+      "totalElements": "20"
     }
 ,
   "profile": {
