@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "maxPages": 1,
+      "page": "1",
+      result: {[
+      {
+        "id": "1",
+        "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
+        "sku": "1082663",
+        "umbralMedio": "100",
+        "umbralCiritico": "15"
+      },
+      {
+        "id": "2",
+        "descripcion": "PEG VENTANAS MADERA MADMASS 3",
+        "sku": "1082671",
+        "umbralMedio": "150",
+        "umbralCiritico": "25"
+      }]
+      }
+    }
+  ],
+  "profile": {
+    "name": "pjmiranda"
+  }
+}
