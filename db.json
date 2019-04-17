@@ -107,43 +107,8 @@
         "sku": "1082663",
         "umbralMedio": "100",
         "umbralCritico": "15"
-      },
-      {
-        "id": "16",
-        "descripcion": "PEG VENTANAS MADERA MADMASS 3",
-        "sku": "1082671",
-        "umbralMedio": "150",
-        "umbralCritico": "25"
-      },
-      {
-        "id": "17",
-        "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
-        "sku": "1082663",
-        "umbralMedio": "100",
-        "umbralCritico": "15"
-      },
-      {
-        "id": "18",
-        "descripcion": "PEG VENTANAS MADERA MADMASS 3",
-        "sku": "1082671",
-        "umbralMedio": "150",
-        "umbralCritico": "25"
-      },
-      {
-        "id": "19",
-        "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
-        "sku": "1082663",
-        "umbralMedio": "100",
-        "umbralCritico": "15"
-      },
-      {
-        "id": "20",
-        "descripcion": "PEG VENTANAS MADERA MADMASS 3",
-        "sku": "1082671",
-        "umbralMedio": "150",
-        "umbralCritico": "25"
       }],
-      "totalElements": "20"
+      "totalElements": "15"
     }
 ,
   "profile": {
