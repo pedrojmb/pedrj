@@ -5,108 +5,108 @@
       "page": 1,
       "result": [
       {
-        "id": "1",
+        "id": 1,
         "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
         "sku": "1082663",
-        "umbralMedio": "100",
-        "umbralCritico": "15"
+        "umbralMedio": 100,
+        "umbralCritico": 15
       },
       {
-        "id": "2",
+        "id": 2,
         "descripcion": "PEG VENTANAS MADERA MADMASS 3",
         "sku": "1082671",
-        "umbralMedio": "150",
-        "umbralCritico": "25"
+        "umbralMedio": 150,
+        "umbralCritico": 25
       },
       {
-        "id": "3",
+        "id": 3,
         "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
         "sku": "1082663",
-        "umbralMedio": "100",
-        "umbralCritico": "15"
+        "umbralMedio": 100,
+        "umbralCritico": 15
       },
       {
-        "id": "4",
+        "id": 4,
         "descripcion": "PEG VENTANAS MADERA MADMASS 3",
         "sku": "1082671",
-        "umbralMedio": "150",
-        "umbralCritico": "25"
+        "umbralMedio": 150,
+        "umbralCritico": 25
       },
       {
-        "id": "5",
+        "id": 5,
         "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
         "sku": "1082663",
-        "umbralMedio": "100",
-        "umbralCritico": "15"
+        "umbralMedio": 100,
+        "umbralCritico": 15
       },
       {
-        "id": "6",
+        "id": 6,
         "descripcion": "PEG VENTANAS MADERA MADMASS 3",
         "sku": "1082671",
-        "umbralMedio": "150",
-        "umbralCritico": "25"
+        "umbralMedio": 150,
+        "umbralCritico": 25
       },
       {
-        "id": "7",
+        "id": 7,
         "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
         "sku": "1082663",
-        "umbralMedio": "100",
-        "umbralCritico": "15"
+        "umbralMedio": 100,
+        "umbralCritico": 15
       },
       {
-        "id": "8",
+        "id": 8,
         "descripcion": "PEG VENTANAS MADERA MADMASS 3",
         "sku": "1082671",
-        "umbralMedio": "150",
-        "umbralCritico": "25"
+        "umbralMedio": 150,
+        "umbralCritico": 25
       },
       {
-        "id": "9",
+        "id": 9,
         "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
         "sku": "1082663",
-        "umbralMedio": "100",
-        "umbralCritico": "15"
+        "umbralMedio": 100,
+        "umbralCritico": 15
       },
       {
-        "id": "10",
+        "id": 10,
         "descripcion": "PEG VENTANAS MADERA MADMASS 3",
         "sku": "1082671",
-        "umbralMedio": "150",
-        "umbralCritico": "25"
+        "umbralMedio": 150,
+        "umbralCritico": 25
       },
       {
-        "id": "11",
+        "id": 11,
         "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
         "sku": "1082663",
-        "umbralMedio": "100",
-        "umbralCritico": "15"
+        "umbralMedio": 100,
+        "umbralCritico": 15
       },
       {
-        "id": "12",
+        "id": 12,
         "descripcion": "PEG VENTANAS MADERA MADMASS 3",
         "sku": "1082671",
-        "umbralMedio": "150",
-        "umbralCritico": "25"
+        "umbralMedio": 150,
+        "umbralCritico": 25
       },{
-        "id": "13",
+        "id": 13,
         "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
         "sku": "1082663",
-        "umbralMedio": "100",
-        "umbralCritico": "15"
+        "umbralMedio": 100,
+        "umbralCritico": 15
       },
       {
-        "id": "14",
+        "id": 14,
         "descripcion": "PEG VENTANAS MADERA MADMASS 3",
         "sku": "1082671",
-        "umbralMedio": "150",
-        "umbralCritico": "25"
+        "umbralMedio": 150,
+        "umbralCritico": 25
       },
       {
-        "id": "15",
+        "id": 15,
         "descripcion": "PEG VENTANAS MADERA MADMASS 2.",
         "sku": "1082663",
-        "umbralMedio": "100",
-        "umbralCritico": "15"
+        "umbralMedio": 100,
+        "umbralCritico": 15
       }],
       "totalElements": 15
     }
